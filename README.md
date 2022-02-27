@@ -12,7 +12,9 @@ Also, big thanks to [https://github.com/shmoobalizer](shmoobalizer) for creating
 
 ## How to install
 **On linux (and on Windows with Git-for-Windows):** you can clone this repo (``git clone https://git.minetest.land/rudzik8/PerfectMC.git``) in your Minetest texture packs dir (``MINETESTDIR/textures/``) and ``git pull`` it sometimes to get new updates.
-**On Windows (and for lazier users):** First-of-all, click there and download: ![There](https://i.ibb.co/ZmmpqYM/screenshooooooooooot.png "right on the top of this page, yep")
+**On Windows (and for lazier users):** First-of-all, click there and download: 
+![There](https://i.ibb.co/ZmmpqYM/screenshooooooooooot.png "right on the top of this page, yep")
+
 And next just unzip the texture pack to your Minetest texture packs dir (``MINETESTDIR\textures\``)
 
 **Enabling in the game**:
@@ -31,6 +33,7 @@ If you choosed
 - Made banners look by using 3D inventory texture (just like in Mine¢raft)
 - Made beds look more mc-alike (currently not all bed colors done but i'm working on it)
 - Made crosshair (both normal and object) use more visible texture (just more wide default crosshair with black outline, so it's visible when looking on white stuff)
+
 **↑** *object crosshair is just normal with a small plus below*
 - Fixed redstone stuff (repeaters, comparators, levers...)
 - Fixed some textures for ``mcl_armor`` (like 2D previews, inv textures, just textures and etc BUT not everything)
