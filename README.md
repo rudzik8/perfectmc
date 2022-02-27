@@ -10,21 +10,6 @@ Also, big thanks to [https://github.com/shmoobalizer](shmoobalizer) for creating
 ![Screenshot 2](https://i.ibb.co/rdTQs8b/screenshot-20220227-190309.png "Cave (and creative hud)")
 ![Screenshot 3](https://i.ibb.co/yykx6Qs/screenshot-20220227-190441.png "Nether (and survival hud with mine¢raft font)")
 
-## How to install
-**On linux (and on Windows with Git-for-Windows):** you can clone this repo (``git clone https://git.minetest.land/rudzik8/PerfectMC.git``) in your Minetest texture packs dir (``MINETESTDIR/textures/``) and ``git pull`` it sometimes to get new updates.
-**On Windows (and for lazier users):** First-of-all, click there and download: 
-
-![There](https://i.ibb.co/ZmmpqYM/screenshooooooooooot.png "right on the top of this page, yep")
-
-And next just unzip the texture pack to your Minetest texture packs dir (``MINETESTDIR\textures\``)
-
-**Enabling in the game**:
-If you choosed
-1. Open Minetest
-2. Choose "Content" tab in the Main Menu
-3. Find a green text in the list that says "PerfectMC" and double-click it
-4. Ta-daa! PerfectMC texture pack has been succesfully enabled!
-
 ## Changes from the mc-textures
 - Fixed the fire flame animated texture (scaled it to the default MCL size and copied for the HUD/Entities)
 - Fixed the flowing water/lava texture (moved the second vertical tileset to the bottom so Minetest renders it normally, not as 32x)
