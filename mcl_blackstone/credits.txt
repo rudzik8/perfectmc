@@ -1,0 +1,2 @@
+﻿I've used assets from "Developer Art+" texture pack to add blackstone (from mcl_blackstone mod, which is part of mcl5)
+Big thanks to shmoobalizer!
