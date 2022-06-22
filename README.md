@@ -3,7 +3,7 @@ Fork of the mc-textures pack by EliasFleckenstein.
 Everything not specially credited belongs to (C) Mojang, I don't own **any** of these.
 **! ONLY FOR PERSONAL USE !**
 
-Also, big thanks to [https://github.com/shmoobalizer](shmoobalizer) for creating the [https://www.planetminecraft.com/texture-pack/developer-art-plus/](Developer Art+ texture pack), i've used assets from it to add newer textures (from MCL5) in the classic pre-1.14 style.
+Also, big thanks to [https://github.com/shmoobalizer](shmoobalizer) for creating the [Developer Art+ texture pack](https://www.planetminecraft.com/texture-pack/developer-art-plus/), i've used assets from it to add newer textures (from MCL5) in the classic pre-1.14 style.
 
 ## Screenshots
 ![Screenshot 1](https://i.ibb.co/RyXhP0F/screenshot-20220227-190230.png "Forest")
@@ -14,7 +14,7 @@ Also, big thanks to [https://github.com/shmoobalizer](shmoobalizer) for creating
 - Fixed the fire flame animated texture (scaled it to the default MCL size and copied for the HUD/Entities)
 - Fixed the flowing water/lava texture (moved the second vertical tileset to the bottom so Minetest renders it normally, not as 32x)
 - Fixed the experience bar texture (just renamed it lol)
-- Added support for some (but not all currently) mods from MineClone 5 (and for [https://git.minetest.land/rudzik8/mcl_emerald_stuff](one my mod))
+- Added support for some (but not all currently) mods from MineClone 5 (and for [one my mod](https://git.minetest.land/rudzik8/mcl_emerald_stuff))
 - Added spawn egg textures for every mob (...not sure about the ``extra_mobs``)
 - Made banners look by using 3D inventory texture (just like in Mine¢raft)
 - Made beds look more mc-alike (currently not all bed colors done but i'm working on it)
